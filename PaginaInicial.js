@@ -2,7 +2,7 @@ function Sairconta(){
 window.location.href = 'cadastro.html'
 }
 function Trocarconta(){
-    window.location.href = 'login.html'
+    window.location.href = 'index.html'
 }
 function Produtos(){
     window.location.href = 'Produtos.html'
