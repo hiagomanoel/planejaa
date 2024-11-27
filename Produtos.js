@@ -53,7 +53,7 @@ function TelaCompra(){
     window.location.href = "Telapagamento.html"
 }
 function logintela(){
-    window.location.href = "login.html"
+    window.location.href = "index.html"
 }
 function cadastrotela(){
     window.location.href = "cadastro.html"
