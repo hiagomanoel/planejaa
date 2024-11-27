@@ -5,7 +5,7 @@ function pgProdutos(){
     window.location.href = "Produtos.html"
 }
 function Trocarconta(){
-    window.location.href = "login.html"
+    window.location.href = "index.html"
 }
 function Sairconta(){
     window.location.href = "cadastro.html"
