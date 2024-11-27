@@ -41,7 +41,7 @@ function Cadastrar() {
     document.getElementById('senha_confirmar').value = '';
 
     setTimeout(() => {
-        window.location.href = 'login.html';
+        window.location.href = 'index.html';
     });
 }
 
